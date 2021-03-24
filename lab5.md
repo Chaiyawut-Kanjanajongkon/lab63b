@@ -12,7 +12,8 @@
 4. คอมพิวเตอร์
 
 ## ศึกษาข้อมูลเบื้องต้น
-https://youtu.be/VX-QNQcO-b4
+* https://youtu.be/VX-QNQcO-b4
+* https://techforteam.com/blog/web-server/
 
 ## วิธีการทำการทดลอง
 1. ต่อไมโครคอนโทรเลอร์ ESP-01 เข้ากับ Serial port แล้วต่อสาย USB เข้าคอมพิวเตอร์
