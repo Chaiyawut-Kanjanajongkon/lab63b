@@ -9,7 +9,8 @@
 2. สาย USB 
 3. Serial port
 4. คอมพิวเตอร์
-5. Adapter port 
+5. Adapter port
+6. LED 
 
 ## ศึกษาข้อมูลเบื้องต้น
 https://youtu.be/CCnN1WJsXQY
