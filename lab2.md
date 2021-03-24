@@ -24,7 +24,7 @@
 4. กดปุ่ม upload และปุ่ม reset ที่ไมโครคอนโทรเลอร์ ESP-01 เพื่อรับโปรแกรม
    * ![lab1 3](https://user-images.githubusercontent.com/80879980/112279233-44bb6380-8cb6-11eb-9f02-2bc7af6e2a99.png)
 5. พิมพ์คำสั่ง pio device monitor เพื่อรันโปรแกรม
-6. 6. กดปุ่ม reset ที่ไมโครคอนโทรเลอร์ ESP-01 เพื่อเริ่มรันโปรแกรมใหม่
+6. กดปุ่ม reset ที่ไมโครคอนโทรเลอร์ ESP-01 เพื่อเริ่มรันโปรแกรมใหม่
    * ![lab1 4](https://user-images.githubusercontent.com/80879980/112279620-b1cef900-8cb6-11eb-95a4-6968b5afdb0c.png)
 
 ## การบันทึกผลการทดลอง
