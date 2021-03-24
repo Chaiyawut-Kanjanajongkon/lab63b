@@ -26,7 +26,8 @@
 4. กดปุ่ม upload และปุ่ม reset ที่ไมโครคอนโทรเลอร์ ESP-01 เพื่อรับโปรแกรม
    * ![lab3 3](https://user-images.githubusercontent.com/80879980/112292783-07f66900-8cc4-11eb-923a-8fa061152b36.png)
 5. พิมพ์คำสั่ง pio device monitor เพื่อรันโปรแกรม
-6. นำเซนเซอร์รับแสงมาต่อกับ Adapter port และต่อสาย input ที่ port เดียวกับตัวรับสัญญาณเซนเซอร์แสง
+7. นำสาย input แตะไปที่ port 0 (หรือทำการกดปุ่ม upload ที่ไมโครคอนโทรเลอร์ ESP-01) บันทึกผล
+8. นำเซนเซอร์รับแสงมาต่อกับ Adapter port และต่อสาย input ที่ port เดียวกับตัวรับสัญญาณเซนเซอร์แสง
    * ![lab4 2](https://user-images.githubusercontent.com/80879980/112330539-b3b2af80-8cea-11eb-9b63-d34a073dd061.png)
 
 ## การบันทึกผลการทดลอง
