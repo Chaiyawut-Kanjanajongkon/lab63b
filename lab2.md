@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=yBjab0UNuB8&t=4s
    * ![lab2 1](https://user-images.githubusercontent.com/80879980/112285667-24db6e00-8cbd-11eb-9413-eeff2b6e9f0a.png)
    * ![lab2 2](https://user-images.githubusercontent.com/80879980/112285750-39b80180-8cbd-11eb-9a4a-42afd281a5af.png)
 3. พิมพ์คำสั่ง pio run -t upload เพื่ออัพโหลดโปรแกรมลงไมโครคอนโทรเลอร์ ESP-01
-4. กดปุ่มดำ และปุ่ม reset ที่ไมโครคอนโทรเลอร์ ESP-01 เพื่อรับโปรแกรม
+4. กดปุ่ม upload และปุ่ม reset ที่ไมโครคอนโทรเลอร์ ESP-01 เพื่อรับโปรแกรม
    * ![lab1 3](https://user-images.githubusercontent.com/80879980/112279233-44bb6380-8cb6-11eb-9f02-2bc7af6e2a99.png)
 5. พิมพ์คำสั่ง pio device monitor เพื่อรันโปรแกรม
 6. 6. กดปุ่ม reset ที่ไมโครคอนโทรเลอร์ ESP-01 เพื่อเริ่มรันโปรแกรมใหม่
