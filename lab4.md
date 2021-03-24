@@ -18,7 +18,7 @@
 * https://sites.google.com/site/elecso25/menu/8
 
 ## วิธีการทำการทดลอง
-1. ต่อไมโครคอนโทรเลอร์ ESP-01 เข้ากับ Adapter port 0 และ 1 จากนั้นต่อทั้งหมดเข้ากับ Serial port แล้วต่อสาย USB เข้าคอมพิวเตอร์
+1. ต่อไมโครคอนโทรเลอร์ ESP-01 เข้ากับ Adapter port จากนั้นต่อทั้งหมดเข้ากับ Serial port แล้วต่อสาย USB เข้าคอมพิวเตอร์
    * ![lab3 1](https://user-images.githubusercontent.com/80879980/112292056-4a6b7600-8cc3-11eb-8237-0c01f0754c19.png)
 2. เปิด code โปรแกรมของตัวอย่างที่ 4
    * ![lab4 1](https://user-images.githubusercontent.com/80879980/112328064-8bc24c80-8ce8-11eb-9d9c-f944d684d55b.png)
