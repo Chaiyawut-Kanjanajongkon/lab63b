@@ -13,7 +13,8 @@
 5. โทรศัพท์มือถือ
 
 ## ศึกษาข้อมูลเบื้องต้น
-https://www.youtube.com/watch?v=T26DVHePlTs
+* https://www.youtube.com/watch?v=T26DVHePlTs
+* https://www.mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/4045-what-is-access-point.html
 
 ## วิธีการทำการทดลอง
 1. ต่อไมโครคอนโทรเลอร์ ESP-01 เข้ากับ Serial port แล้วต่อสาย USB เข้าคอมพิวเตอร์
