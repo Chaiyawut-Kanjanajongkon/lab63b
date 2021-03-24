@@ -14,7 +14,8 @@
 7. LED
 
 ## ศึกษาข้อมูลเบื้องต้น
-https://www.youtube.com/watch?v=nFqoZT26U5k
+* https://www.youtube.com/watch?v=nFqoZT26U5k
+* https://sites.google.com/site/elecso25/menu/8
 
 ## วิธีการทำการทดลอง
 1. ต่อไมโครคอนโทรเลอร์ ESP-01 เข้ากับ Adapter port 0 และ 1 จากนั้นต่อทั้งหมดเข้ากับ Serial port แล้วต่อสาย USB เข้าคอมพิวเตอร์
